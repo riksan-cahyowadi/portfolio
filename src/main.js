@@ -26,7 +26,7 @@ document.querySelector("#app").innerHTML = `
         <div class="hero-actions">
           <a class="button button-primary" href="#projek">Lihat projek <span>↗</span></a>
           <a class="text-link contact-link" href="#kontak">Mari Mengobrol <span>→</span></a>
-          <a class="text-link cv-link" href="https://drive.google.com/file/d/PASTE-CV-FILE-ID/view" target="_blank" rel="noreferrer">Unduh CV <span>↓</span></a>
+          <a class="text-link cv-link" href="https://drive.google.com/file/d/1pQxRhfdHaYHtaO0raMADWKZwBSJEMxU0/view?usp=drive_link" target="_blank" rel="noreferrer">Unduh CV <span>↓</span></a>
         </div>
         <div class="hero-meta">
           <span><i class="status-dot"></i> Tersedia untuk tawaran</span>
