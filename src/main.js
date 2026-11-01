@@ -82,7 +82,7 @@ document.querySelector("#app").innerHTML = `
         <div class="skills-intro"><p class="section-number">03 / Keahlian</p><h2>Teknologi yang saya gunakan untuk mewujudkan ide.</h2></div>
         <div class="skills-list">
           <div class="skill-category"><h3>Backend</h3><div class="skill-items"><span>Laravel</span><span>PHP</span></div></div>
-          <div class="skill-category"><h3>Frontend</h3><div class="skill-items"><span>HTML</span><span>CSS</span><span>JavaScript</span><span>Bootstrap</span><span>Tailwind</span></div></div>
+          <div class="skill-category"><h3>Frontend</h3><div class="skill-items"><span>HTML</span><span>CSS</span><span>JavaScript</span><span>React.js</span><span>Tailwind</span></div></div>
           <div class="skill-category"><h3>Database</h3><div class="skill-items"><span>MySQL</span><span>MariaDB</span></div></div>
           <div class="skill-category"><h3>Tools</h3><div class="skill-items"><span>Git</span><span>GitHub</span><span>Laragon</span><span>XAMPP</span><span>phpMyAdmin</span></div></div>
         </div>
